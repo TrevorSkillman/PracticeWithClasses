@@ -153,7 +153,7 @@ int main() {
 	int year;
 	bool available;
 	
-	
+	// do/while loop 
 	do {
 		cout << "Welcome to the Library! Please choose from the following options!\n";
 		cout << "1.) Add a book: \n";
