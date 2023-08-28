@@ -232,7 +232,7 @@ int main() {
 
 		} 
 
-	} while (choice != 7);
+	} while (choice != 9);
 
 	return 0;
 }
